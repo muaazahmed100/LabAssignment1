@@ -1,0 +1,3 @@
+enum LibraryItemType {
+    BOOK,MAGAZINE
+}
